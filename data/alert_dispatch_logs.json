@@ -1,0 +1,22 @@
+[
+  {
+    "dispatch_id": "disp_0001",
+    "timestamp": "2026-10-07 22:10:37",
+    "city": "Delhi",
+    "aqi": 425,
+    "channel": "WhatsApp",
+    "recipient": "Self / Test User",
+    "status": "Delivered (Simulated Carrier OK)",
+    "preview": "\ud83d\udea8 *AIRAWARE EMERGENCY AIR ALERT: DELHI*\n\ud83d\udcc5 *Time:* 10:10 PM, 07 Oct\n------------------------------------\n\ud83d\udd34 *Current AQI:* *425* (Severe)\n\ud83d\udee1\ufe0f *..."
+  },
+  {
+    "dispatch_id": "disp_0002",
+    "timestamp": "2026-10-07 22:10:55",
+    "city": "Delhi",
+    "aqi": 425,
+    "channel": "WhatsApp",
+    "recipient": "Self / Test User",
+    "status": "Delivered (Simulated Carrier OK)",
+    "preview": "\ud83d\udea8 *AIRAWARE EMERGENCY AIR ALERT: DELHI*\n\ud83d\udcc5 *Time:* 10:10 PM, 07 Oct\n------------------------------------\n\ud83d\udd34 *Current AQI:* *425* (Severe)\n\ud83d\udee1\ufe0f *..."
+  }
+]
