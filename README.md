@@ -1,5 +1,8 @@
 # AirAware: Pollution Season Forecaster and Health Advisor 🌫️
 
+[![Author: Anisha Srivastava](https://img.shields.io/badge/Author-Anisha%20Srivastava-blue.svg)](https://github.com/anishasrivastava48-its)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 > **Production Environmental Intelligence Platform & Health Advisory System for North India**  
 > Aligned with **UN Sustainable Development Goals**:  
 > - **SDG 3: Good Health and Well-being** (Target 3.9)  
